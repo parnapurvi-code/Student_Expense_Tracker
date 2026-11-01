@@ -1,4 +1,3 @@
-# Student_Finance_Simulator
 ## Project Overview 
 Student Expense Tracker is a C++ Object-Oriented Programming (OOP) project designed to help students manage and track their daily expenses. The application allows users to register, log in, record expenses, search and sort transactions, generate summaries, and export reports. Data is stored permanently using file handling.
 ## Features
@@ -43,6 +42,7 @@ Student Expense Tracker is a C++ Object-Oriented Programming (OOP) project desig
 - C++
 - Object-Oriented Programming
 - File Handling (ifstream / ofstream)
-## Developer Purvi
+## Developer 
+Purvi Parna
 ## Conclusion 
 This project demonstrates the practical use of Object-Oriented Programming and File Handling in C++ while providing a simple solution for personal finance and expense management.
